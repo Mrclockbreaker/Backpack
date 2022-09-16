@@ -1,0 +1,10 @@
+*.class 
+.replit
+.nix
+.breakpoints
+.upm
+.cache
+.lesson
+env.json
+store.json
+.
